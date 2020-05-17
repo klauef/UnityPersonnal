@@ -12,24 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-18T01:05:11.049+02:00
+  lastUpdatedAtString: 2020-05-18T01:05:20.534+02:00
   initializedAtString: 2020-05-18T00:38:18.407+02:00
   entries:
   - path: Library\gfu\cache\branches.yaml
     fullPath: D:\Projet Perso\personnalProject\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: D:\Projet Perso\personnalProject\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: D:\Projet Perso\personnalProject\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -44,7 +32,7 @@ MonoBehaviour:
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Temp\ProcessJobs\a9a73ee5ca62db0192442785414d5715.bakert
     fullPath: D:\Projet Perso\personnalProject\Temp\ProcessJobs\a9a73ee5ca62db0192442785414d5715.bakert
     projectPath: Temp\ProcessJobs\a9a73ee5ca62db0192442785414d5715.bakert
