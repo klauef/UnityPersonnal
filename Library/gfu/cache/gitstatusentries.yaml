@@ -12,6 +12,126 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-18T00:52:31.786+02:00
+  lastUpdatedAtString: 2020-05-18T01:05:11.049+02:00
   initializedAtString: 2020-05-18T00:38:18.407+02:00
-  entries: []
+  entries:
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Projet Perso\personnalProject\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Projet Perso\personnalProject\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Projet Perso\personnalProject\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Projet Perso\personnalProject\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Projet Perso\personnalProject\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\ProcessJobs\a9a73ee5ca62db0192442785414d5715.bakert
+    fullPath: D:\Projet Perso\personnalProject\Temp\ProcessJobs\a9a73ee5ca62db0192442785414d5715.bakert
+    projectPath: Temp\ProcessJobs\a9a73ee5ca62db0192442785414d5715.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\TarGZ\github-for-unity-1.4.0.6503
+    fullPath: D:\Projet Perso\personnalProject\Temp\TarGZ\github-for-unity-1.4.0.6503
+    projectPath: Temp\TarGZ\github-for-unity-1.4.0.6503
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2963419de437762418a9fa04a0f0d4e7
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-2963419de437762418a9fa04a0f0d4e7
+    projectPath: Temp\UnityTempFile-2963419de437762418a9fa04a0f0d4e7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-321acdad5786f934196460785941552a
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-321acdad5786f934196460785941552a
+    projectPath: Temp\UnityTempFile-321acdad5786f934196460785941552a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-57ebfb77bf7547845977fc1efc7d4bf8
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-57ebfb77bf7547845977fc1efc7d4bf8
+    projectPath: Temp\UnityTempFile-57ebfb77bf7547845977fc1efc7d4bf8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-60eadcb842d5a5749af0f540baeaed41
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-60eadcb842d5a5749af0f540baeaed41
+    projectPath: Temp\UnityTempFile-60eadcb842d5a5749af0f540baeaed41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-63c9bcdafb610d94ba1d347c3e1dd92a
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-63c9bcdafb610d94ba1d347c3e1dd92a
+    projectPath: Temp\UnityTempFile-63c9bcdafb610d94ba1d347c3e1dd92a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7ba8706b27046d14f9cd7019081189ae
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-7ba8706b27046d14f9cd7019081189ae
+    projectPath: Temp\UnityTempFile-7ba8706b27046d14f9cd7019081189ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9c9c9a9286183f2459e6ede44ca236a3
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-9c9c9a9286183f2459e6ede44ca236a3
+    projectPath: Temp\UnityTempFile-9c9c9a9286183f2459e6ede44ca236a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9d14ebd82fd79d04e9d10968b9baf011
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-9d14ebd82fd79d04e9d10968b9baf011
+    projectPath: Temp\UnityTempFile-9d14ebd82fd79d04e9d10968b9baf011
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b3214cd62ca8ddd4a99dcfb510d76c9e
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-b3214cd62ca8ddd4a99dcfb510d76c9e
+    projectPath: Temp\UnityTempFile-b3214cd62ca8ddd4a99dcfb510d76c9e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c2c5a5f2679ac3e47860599dd7482bf9
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-c2c5a5f2679ac3e47860599dd7482bf9
+    projectPath: Temp\UnityTempFile-c2c5a5f2679ac3e47860599dd7482bf9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c43c4ab01d0bbc4488aaf0258659f7a4
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-c43c4ab01d0bbc4488aaf0258659f7a4
+    projectPath: Temp\UnityTempFile-c43c4ab01d0bbc4488aaf0258659f7a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f283dfcac71a94446a6febc0e54da862
+    fullPath: D:\Projet Perso\personnalProject\Temp\UnityTempFile-f283dfcac71a94446a6febc0e54da862
+    projectPath: Temp\UnityTempFile-f283dfcac71a94446a6febc0e54da862
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
