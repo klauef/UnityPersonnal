@@ -1,4 +1,4 @@
-﻿Shader "Personal/multiple light bump mapping and shadows"{
+﻿Shader "Personal/multiple light bump mapping with double precision"{
 
 	Properties{
 		_Tint("Tint", Color) = (1, 1, 1, 1)
@@ -28,7 +28,7 @@
 				#include "UnityPBSLighting.cginc"
 				#include "AutoLight.cginc"
 
-				#include "bumpMapping.cginc"
+				#include "bumpMapDouble.cginc"
 
 
 				ENDCG
@@ -55,24 +55,7 @@
 				#include "UnityPBSLighting.cginc"
 				#include "AutoLight.cginc"
 
-				#include "bumpMapping.cginc"
-
-				ENDCG
-			}
-
-			Pass {
-				Tags {
-					"LightMode" = "ShadowCaster"
-				}
-
-				CGPROGRAM
-
-				#pragma target 3.0
-
-				#pragma vertex shadowVertexProgram
-				#pragma fragment shadowFragmentProgram
-
-				#include "shadowCast.cginc"
+				#include "bumpMapDouble.cginc"
 
 				ENDCG
 			}
